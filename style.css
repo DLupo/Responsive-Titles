@@ -1,0 +1,31 @@
+
+
+.container {
+  margin: auto;
+  width: 88%;
+}
+
+.first {
+  font-family: 'Karma', serif;
+  font-size: 9vw;
+  padding: 0.5vw;
+}
+
+.second {
+  font-family: 'Rammetto One', cursive;
+  font-size: 6vw;
+  margin: 1vw;
+}
+
+
+.third {
+  font-family: 'Rozha One', serif;
+  font-size: 7vw;
+
+}
+
+.fourth {
+  font-family: 'Playfair Display', serif;
+  font-size: 10vw;
+
+}
